@@ -1,0 +1,186 @@
+{
+  "Header": {
+    "title": "Baixe nosso APP e faça o seu agendamento!",
+    "paragraph": ""
+  },
+  "About": {
+    "paragraph": "Na nossa barbearia, o profissionalismo é a base que sustenta cada corte e estilo. Com uma equipe de especialistas qualificados, garantimos serviços de qualidade e padrões inovadores, sempre buscando superar as expectativas dos nossos clientes. Aqui, cada detalhe é cuidadosamente planejado para oferecer uma experiência única e satisfatória, onde a tradição se encontra com a modernidade.",
+    "Why": [
+      "Atendimento Personalizado",
+      "Variedade de Serviços",
+      "Inovações em Diferentes Estilos",
+      "Produtos e Materiais de Qualidade"
+    ],
+    "Why2": [
+      "Compromisso com Nossos Clientes",
+      "Ambiente Agradável e Acolhedor",
+      "Profissionais Qualificados",
+      "Sempre Visando o Melhor p/ Você"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "LONGOS VÍNCULO",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "NOVOS LAÇOS",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "AMBIENTE AMIGÁVEL",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "QUALIDADE",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "CUIDADO E DELICADEZA",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "INOVAÇÃO",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "ENTRETIMENTO",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "CONFORTO",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "ESTILO",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Corte",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Barba",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Pigmentação",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Hidratação",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Manicure e Pedicure",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Dia do Noivo",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Eu já baixei o app Android, fiz o meu agendamento para hoje, fui atendido pelo próprio Patrese no dia e horário marcado. Muito prático, rápido e descomplicado. Baixe logo o seu também!👏👏👏👏.\"",
+      "name": "@brunonocechastinet"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Hoje foi dia de levar o Bento pra consertar o que eu fiz no cabelo dele haha E óbvio que tenho que levar no melhor né. Só confio se for na @patresebarbershop. 💈✂️.\"",
+      "name": "@biavitoriano"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Satisfação em fazer parte desse exemplo inovador de barbearia shop. Atenção, cuidado, especialidade, técnicas de melhora de visual. Extremamente satisfeito com a entrega e auto estima que vocês proporcionam 👏.\"",
+      "name": "@pedro.gurgel"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Os melhores! 👏🏼👏🏼👏🏼@patresebarbershop.\"",
+      "name": "@gabriel.sabiino"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Profissional de excelência 👏🏻.\"",
+      "name": "@regisampaio"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Top benção de Deus eu indico, ótimos profissionais e o melhor profissional está lá, o barbeiro Patrese .\"",
+      "name": "@adriano_gospel2011"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Patrese",
+      "job": "Barbeiro"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Gabriel",
+      "job": "Barbeiro"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Ronny",
+      "job": "Barbeiro"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Guruca",
+      "job": "Barbeiro"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Valdo",
+      "job": "Barbeiro"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Sandro",
+      "job": "Barbeiro"
+    }
+  ],
+  "Contact": {
+    "address": "R. Monsenhor Salazar, 997 - São João do Tauape, Fortaleza-CE",
+    "phone": "+55 (85)91234-1234",
+    "email": "patresebarbershop@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+
+    {
+      "icon": "fa fa-map-marker",
+      "title": "Patrese Barbershop Prime",
+      "text": "R. Henriqueta Galeno, 576 - Dionísio Torres, Fortaleza - CE, 60135-420"
+    },
+    {
+      "icon": "fa fa-map-marker",
+      "title": "Patrese Barbershop",
+      "text": "Rua Monsenhor Salazar, 997 - São João do Tauape, Fortaleza - CE, 60130-370"
+    }
+  ]
+}
